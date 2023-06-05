@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahammed-nihalpt
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently wprking as MERN STACK DEVELOPER
+- 💞️ I’m looking to collaborate on any thing related to coding
 - 📫 How to reach me ahammednihalpt@gmail.com
 
 <!---
